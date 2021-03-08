@@ -1,1 +1,0 @@
-# lcn-resume.github.io
