@@ -1,9 +1,9 @@
 #vers-tracker {
-    text-align: right;
+    float: right;
     font-family: 'Courier New', Courier, monospace;
 }
 
 #title-name {
-    text-align: left;
+    float: left;
     font-family: Verdana, sans-serif;
 }
